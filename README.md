@@ -51,6 +51,12 @@ This project was created as part of an independent research initiative exploring
 
 ---
 
+## 📚 References
+
+1. NHS Digital. *National Diabetes Audit – 2021-22 Data Release*. Published by NHS Digital, UK. Available at: [https://digital.nhs.uk/data-and-information/publications/statistical/national-diabetes-audit/nda-core-21-22/nda-core-21-22-data](https://digital.nhs.uk/data-and-information/publications/statistical/national-diabetes-audit/nda-core-21-22/nda-core-21-22-data)
+
+---
+
 ## 📬 Contact
 
 For questions or collaboration, feel free to reach out via [LinkedIn](www.linkedin.com/in/vignesh-krishnakumar-a194bb17a).
