@@ -17,21 +17,6 @@ This repository presents a data-driven case study evaluating diabetes care quali
 
 ---
 
-## 🧪 Files and Structure
-├── data/
-│ └── National Diabetes Audit 2021-22 Data Release, England v2.xlsx
-├── notebooks/
-│ ├── Exploratory Data Analysis_Type 1.ipynb
-│ └── Exploratory Data Analysis_Type_2_CTT and others.ipynb
-├── dashboards/
-│ ├── Type1_Diabetes_Dashboard.png
-│ └── Type2_Diabetes_Dashboard.png
-├── case_study/
-│ └── Case Study Evaluating Diabetes Care Outcomes.docx
-└── README.md
-
----
-
 ## 📈 Key Insights
 
 - Type 1 patients showed significantly lower treatment target attainment (avg **32%**) vs. Type 2 (avg **36%**).
